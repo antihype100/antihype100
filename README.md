@@ -1,7 +1,7 @@
 ![Header](https://github.com/antihype100/antihype100/blob/main/assets/Group%201.png)
 
 
-### Language and Tools for Web-Dev
+### Language and Tools
 #### Frontend:
 ![JavaScript](https://img.shields.io/badge/JavaScript-1E1E1E?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1E1E1E?style=for-the-badge&logo=TypeScript)
@@ -49,3 +49,4 @@
 ![Linux](https://img.shields.io/badge/Linux-1E1E1E?style=for-the-badge&logo=Linux)
 ![Docker](https://img.shields.io/badge/Docker-1E1E1E?style=for-the-badge&logo=Docker)
 ![Nginx](https://img.shields.io/badge/Nginx-1E1E1E?style=for-the-badge&logo=Nginx)
+![Git](https://img.shields.io/badge/Git-1E1E1E?style=for-the-badge&logo=Git)
