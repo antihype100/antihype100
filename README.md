@@ -52,5 +52,5 @@
 ![Git](https://img.shields.io/badge/Git-1E1E1E?style=for-the-badge&logo=Git)
 
 ### My resume:
-![Resume](https://img.shields.io/badge/Link_my_resume-1E1E1E?style=for-the-badge&&?link=http://url=https://drive.google.com/file/d/1GpWExFlyDZdHby43oBCDtc23s62w_5zL/view?usp=share_link)
+![Resume](https://img.shields.io/badge/Link_my_resume-1E1E1E?style=for-the-badge&url=https://drive.google.com/file/d/1GpWExFlyDZdHby43oBCDtc23s62w_5zL/view?usp=share_link)
 
