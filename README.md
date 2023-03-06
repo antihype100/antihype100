@@ -1,4 +1,4 @@
-[![Header](https://github.com/antihype100/antihype100/blob/main/assets/Group%201.png)
+![Header](https://github.com/antihype100/antihype100/blob/main/assets/Group%201.png)
 
 
 ### Language and Tools for Web-Dev
@@ -22,5 +22,30 @@
 ![Node.js](https://img.shields.io/badge/Node.js-1E1E1E?style=for-the-badge&logo=Node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-1E1E1E?style=for-the-badge&logo=Express)
 ![Sequelize](https://img.shields.io/badge/Sequelize-1E1E1E?style=for-the-badge&logo=Sequelize)
+![Multer](https://img.shields.io/badge/Multer-1E1E1E?style=for-the-badge&logo=Multer)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E1E1E?style=for-the-badge&logo=PostgreSQL)
 ![MongoDB](https://img.shields.io/badge/MongoDB-1E1E1E?style=for-the-badge&logo=MongoDB)
+![REST API](https://img.shields.io/badge/REST_API-1E1E1E?style=for-the-badge&logo=REST_API)
+
+#### AI-Development:
+![PyTorch](https://img.shields.io/badge/PyTorch-1E1E1E?style=for-the-badge&logo=PyTorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1E1E1E?style=for-the-badge&logo=TensorFlow)
+![CatBoost](https://img.shields.io/badge/CatBoost-1E1E1E?style=for-the-badge&logo=CatBoost)
+![Scikit-learn](https://img.shields.io/badge/Scikit_learn-1E1E1E?style=for-the-badge&logo=Scikit_learn)
+![NumPy](https://img.shields.io/badge/NumPy-1E1E1E?style=for-the-badge&logo=NumPy)
+![Seaborn](https://img.shields.io/badge/Seaborn-1E1E1E?style=for-the-badge&logo=Seaborn)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-1E1E1E?style=for-the-badge&logo=MatPlotLib)
+![Pandas](https://img.shields.io/badge/Pandas-1E1E1E?style=for-the-badge&logo=Pandas)
+![Albumentations](https://img.shields.io/badge/Albumentations-1E1E1E?style=for-the-badge&logo=Albumentations)
+
+#### Science:
+![Linear Algebra](https://img.shields.io/badge/Linear_Algebra-1E1E1E?style=for-the-badge&logo=Math)
+![Theory AI](https://img.shields.io/badge/Theory_AI-1E1E1E?style=for-the-badge&logo=Math)
+![Statistics](https://img.shields.io/badge/Statistics-1E1E1E?style=for-the-badge&logo=Math)
+![Theory of Probability](https://img.shields.io/badge/Theory_of_Probability-1E1E1E?style=for-the-badge&logo=Math)
+
+
+#### Other:
+![Linux](https://img.shields.io/badge/Linux-1E1E1E?style=for-the-badge&logo=Linux)
+![Docker](https://img.shields.io/badge/Docker-1E1E1E?style=for-the-badge&logo=Docker)
+![Nginx](https://img.shields.io/badge/Nginx-1E1E1E?style=for-the-badge&logo=Nginx)
