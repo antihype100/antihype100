@@ -50,3 +50,7 @@
 ![Docker](https://img.shields.io/badge/Docker-1E1E1E?style=for-the-badge&logo=Docker)
 ![Nginx](https://img.shields.io/badge/Nginx-1E1E1E?style=for-the-badge&logo=Nginx)
 ![Git](https://img.shields.io/badge/Git-1E1E1E?style=for-the-badge&logo=Git)
+
+### My resume:
+![Resume](https://img.shields.io/badge/Link_my_resume-1E1E1E?style=for-the-badge&&?link=http://left&link=https://drive.google.com/file/d/1GpWExFlyDZdHby43oBCDtc23s62w_5zL/view?usp=share_link)
+
